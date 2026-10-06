@@ -1,0 +1,4 @@
+interface:
+  display_name: "Визуальная разработка"
+  short_description: "Персонажи, мир, камера, свет и continuity"
+  default_prompt: "Используй $cinema-visual-development. Разработай визуальную библию и постановочные briefs сцены."

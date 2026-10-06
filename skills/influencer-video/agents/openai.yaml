@@ -1,0 +1,4 @@
+interface:
+  display_name: "Influencer Video"
+  short_description: "Prepare video inputs, voice timing and QA"
+  default_prompt: "Use $influencer-video to turn the script into a verified video handoff."

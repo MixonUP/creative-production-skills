@@ -1,0 +1,13 @@
+{
+  "commit": "9539d3a79ae6937205bf44f6b102af5ea15b9d49",
+  "status": "downloaded_for_review",
+  "fetched_at": "2026-10-03T20:55:05.1310074+03:00",
+  "repository": "https://github.com/samyost1/3dicon",
+  "skill_path": "skills/3dicon",
+  "snapshot": "E:\\Krea_tren_AI\\KnowledgeData\\snapshots\\2026-10-03\\3dicon-20261003-205733",
+  "upstream_skill_sha256": "65d6946516477b73d98c12e50b94b75a5a82e5f51cd549e48e6c705c7caa4e4e",
+  "local_adaptation": [
+    "Windows isolated runtime instructions",
+    "Restrict OpenRouter polling and download credential forwarding to the API origin"
+  ]
+}

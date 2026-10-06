@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Toolchain Maintenance"
+  short_description: "Обновление и замена инструментов с откатом"
+  default_prompt: "Используй $film-toolchain-maintenance для проверки и улучшения рабочего стека."

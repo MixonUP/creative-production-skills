@@ -1,0 +1,4 @@
+interface:
+  display_name: "Игровые эффекты"
+  short_description: "События, время жизни и проверка игровых VFX"
+  default_prompt: "Используй $game-vfx-workflow для текущей игровой задачи с проверяемым результатом."

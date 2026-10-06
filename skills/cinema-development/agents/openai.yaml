@@ -1,0 +1,4 @@
+interface:
+  display_name: "Идеи и сценарии"
+  short_description: "От сильной идеи до производимого сценария"
+  default_prompt: "Используй $cinema-development. Разработай оригинальную идею фильма и напиши treatment."

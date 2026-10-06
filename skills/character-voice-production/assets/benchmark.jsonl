@@ -1,0 +1,24 @@
+{"id":"en01","language":"EN","category":"short","text":"No. Wait.","direction":"quiet urgency","critical":"both words"}
+{"id":"en02","language":"EN","category":"neutral","text":"Welcome back. I left your notebook beside the window.","direction":"warm, unforced"}
+{"id":"en03","language":"EN","category":"question","text":"Did you hear that, or was it only the wind?","direction":"uncertainty, not panic"}
+{"id":"en04","language":"EN","category":"negation","text":"Do not open the red door. Take the blue key instead.","direction":"clear instruction","critical":"negation and colors"}
+{"id":"en05","language":"EN","category":"numbers","text":"The code is seven, zero, four, nine. Meet me at six thirty.","direction":"measured","critical":"digits and time"}
+{"id":"en06","language":"EN","category":"name","text":"Mira asked Leon to meet her near the northern bridge.","direction":"conversational","critical":"names"}
+{"id":"en07","language":"EN","category":"anger","text":"You promised to tell me the truth. I am still waiting.","direction":"contained anger"}
+{"id":"en08","language":"EN","category":"fear","text":"Keep walking. If we stay calm, they may not notice us.","direction":"concealed fear"}
+{"id":"en09","language":"EN","category":"comfort","text":"You do not have to explain everything now. I can stay.","direction":"comfort without theatrical sadness"}
+{"id":"en10","language":"EN","category":"joy","text":"It worked! I knew we could finish it together.","direction":"genuine moderate delight"}
+{"id":"en11","language":"EN","category":"long","text":"I checked the workshop before sunset, but the cabinet was already empty. Someone had moved the tools, cleaned the table, and left a folded note beneath the lamp. We should read it before we decide where to go next.","direction":"natural narrative, complete ending"}
+{"id":"en12","language":"EN","category":"whisper","text":"There is someone on the other side. Please turn off the light.","direction":"whisper test; retain consonants","critical":"complete last word"}
+{"id":"ru01","language":"RU","category":"short","text":"Нет. Стой.","direction":"тихая срочность","critical":"оба слова"}
+{"id":"ru02","language":"RU","category":"neutral","text":"С возвращением. Я оставила твой блокнот возле окна.","direction":"спокойное тепло"}
+{"id":"ru03","language":"RU","category":"question","text":"Ты тоже это слышал или мне просто показалось?","direction":"сомнение без паники"}
+{"id":"ru04","language":"RU","category":"negation","text":"Не открывай красную дверь. Возьми синий ключ.","direction":"ясная инструкция","critical":"не и цвета"}
+{"id":"ru05","language":"RU","category":"numbers","text":"Код: семь, ноль, четыре, девять. Встречаемся в половине седьмого.","direction":"размеренно","critical":"цифры и время"}
+{"id":"ru06","language":"RU","category":"name","text":"Мира попросила Леона подождать у северного моста.","direction":"обычный разговор","critical":"имена"}
+{"id":"ru07","language":"RU","category":"anger","text":"Ты обещал рассказать правду. Я всё ещё жду.","direction":"сдержанное раздражение"}
+{"id":"ru08","language":"RU","category":"fear","text":"Иди спокойно. Если мы не остановимся, нас могут не заметить.","direction":"скрытый страх"}
+{"id":"ru09","language":"RU","category":"comfort","text":"Не обязательно объяснять всё прямо сейчас. Я могу остаться.","direction":"мягкая поддержка"}
+{"id":"ru10","language":"RU","category":"joy","text":"Получилось! Я знала, что вместе мы справимся.","direction":"умеренная радость"}
+{"id":"ru11","language":"RU","category":"long","text":"Я заглянула в мастерскую перед закатом, но шкаф уже был пуст. Кто-то переставил инструменты, вытер стол и оставил сложенную записку под лампой. Давай сначала прочитаем её, а потом решим, куда идти дальше.","direction":"естественный рассказ, законченная последняя фраза"}
+{"id":"ru12","language":"RU","category":"whisper","text":"За стеной кто-то есть. Пожалуйста, выключи свет.","direction":"проба шёпота с ясными согласными","critical":"последнее слово полностью"}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender: риг и игровая анимация"
+  short_description: "Контакты, клипы и проверяемый экспорт анимации"
+  default_prompt: "Используй $blender-game-animation для текущей игровой задачи с проверяемым результатом."

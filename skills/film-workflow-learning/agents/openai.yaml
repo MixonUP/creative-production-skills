@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Workflow Learning"
+  short_description: "Разбор уроков, проверка приёмов и развитие навыков"
+  default_prompt: "Use $film-workflow-learning to assess this source, save useful techniques and update the relevant workflow or research backlog."

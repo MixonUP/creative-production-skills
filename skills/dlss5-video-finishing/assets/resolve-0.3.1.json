@@ -1,0 +1,11 @@
+{
+  "version": "0.3.1-experimental",
+  "plugin_id": "com.saog.resolve.dlss5",
+  "source_commit": "a659e5c674388ea8026f4cf8df9f206826d12452",
+  "release_url": "https://github.com/SAOG0721/DaVinci-Resolve-DLSS5/releases/tag/v0.3.1-experimental",
+  "archive_sha256": "28d20513d1ca737000d00a8d328aaadc89b1b8c85f52e194a2fce56f2dbda446",
+  "files": {
+    "Contents/Win64/ResolveDlss5.ofx": "5ecdf4dfbc3072f4ee3f4f572f5479dbd59a7ff88eebbb5aaaaa06765fd441a3",
+    "Contents/Win64/runtime/nvngx_dlssnr.dll": "984bee0f775c277d5829b8fd6775d53a7b0f75396c852b3aaf06a18375f81014"
+  }
+}

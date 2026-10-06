@@ -1,0 +1,1108 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-07",
+  "skill_count": 44,
+  "scope": "User-maintained installed skills; excludes system and plugin packages",
+  "source_policy": "Snapshot of installed skills, with documented public-export changes",
+  "files": [
+    {
+      "path": "skills/3dicon/.env.example",
+      "sha256": "a3e56f0d19b6b92c15284f6f32b49a6482123d3819c4ed10e046d8048917db8a",
+      "bytes": 1815
+    },
+    {
+      "path": "skills/3dicon/docs/limitations.md",
+      "sha256": "d3745d64b34ee018e5bce8fda0ccb955e7b4645fd0911eb80c22373ddf79be3a",
+      "bytes": 2306
+    },
+    {
+      "path": "skills/3dicon/docs/local-windows.md",
+      "sha256": "f628ad772bd68d673bbb7e2bb55c6813471dd2049b14a7cad381d2095b88089a",
+      "bytes": 3174
+    },
+    {
+      "path": "skills/3dicon/examples/banner.mp4",
+      "sha256": "c410cc2a37c2929c92a0abe93fbe881bc66299e0f579a3382d7dcb6555c4b14e",
+      "bytes": 469532
+    },
+    {
+      "path": "skills/3dicon/examples/banner.webp",
+      "sha256": "3250e0804e178fcfa6e54e8aafa1fc13a715e795ac91d25bf83f96a077da003e",
+      "bytes": 940942
+    },
+    {
+      "path": "skills/3dicon/examples/demo.mp4",
+      "sha256": "5343b2a70b3ce69d6089fd87fa45fd64b89e0e2789d67ae428d63aaa4c29b7a5",
+      "bytes": 380961
+    },
+    {
+      "path": "skills/3dicon/examples/social.mp4",
+      "sha256": "ed38e41bde2f780b1146b7ca7d1b49cdf88a0d4d8394133bc0f7dd5baaf81fef",
+      "bytes": 815634
+    },
+    {
+      "path": "skills/3dicon/examples/timer/contact_sheet.png",
+      "sha256": "531be4b24517cab91826e569f949fa2bafb606c19fd5b5f45c2b01c1d386ebd6",
+      "bytes": 134676
+    },
+    {
+      "path": "skills/3dicon/examples/timer/README.md",
+      "sha256": "0ac3e3b3759c670b93076214d23f18f2965c7d7ccfcff298ec04ffc25088cdb6",
+      "bytes": 1735
+    },
+    {
+      "path": "skills/3dicon/examples/timer/still.png",
+      "sha256": "3cd7f0c794cee6192d7c4904a244db8445643cbca47b0ecf1e56a07171791eb1",
+      "bytes": 142883
+    },
+    {
+      "path": "skills/3dicon/examples/timer/timer.webp",
+      "sha256": "7da818f5e7ab3095250114900a823330a97c44078304bdb2c99a7bb01b4b4568",
+      "bytes": 877328
+    },
+    {
+      "path": "skills/3dicon/iconloop/__init__.py",
+      "sha256": "51ed386005b675838be6bb4db345a056525a3188b00dabbad4f9461f26477826",
+      "bytes": 103
+    },
+    {
+      "path": "skills/3dicon/iconloop/__main__.py",
+      "sha256": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279",
+      "bytes": 30
+    },
+    {
+      "path": "skills/3dicon/iconloop/cli.py",
+      "sha256": "b2a289e8afc5ad3f7eb8295e2f5138da8f74c39290fe728bf3cc37dae1b613ca",
+      "bytes": 10688
+    },
+    {
+      "path": "skills/3dicon/iconloop/config.py",
+      "sha256": "a4f40bf52755c88299ce00195314af21748be114e764996bfb0f99b3490b9ea6",
+      "bytes": 1825
+    },
+    {
+      "path": "skills/3dicon/iconloop/encode.py",
+      "sha256": "cffed373f2227c9d228ab3bdc3cfd60d0ec441604a622e050fa1d96d428f8718",
+      "bytes": 4030
+    },
+    {
+      "path": "skills/3dicon/iconloop/http.py",
+      "sha256": "e74d3de09a1b41c07684b5349b49008a189f5797c45b237fe06118c79d3d0e94",
+      "bytes": 2957
+    },
+    {
+      "path": "skills/3dicon/iconloop/kling.py",
+      "sha256": "c1e44debf808bb503cace6eeb510a10a40142cc3dfad88c4f6b588567081f5e7",
+      "bytes": 9575
+    },
+    {
+      "path": "skills/3dicon/iconloop/matte.py",
+      "sha256": "5f84bc585e6a67ba1942d35ecd55468203b4423b6baef5075bd4bdf82a95d69c",
+      "bytes": 5833
+    },
+    {
+      "path": "skills/3dicon/iconloop/motion.py",
+      "sha256": "e2986704013e72f6c7f408061c8c74c0f44309a49d3d37c938d31fa092c350a9",
+      "bytes": 16292
+    },
+    {
+      "path": "skills/3dicon/iconloop/providers.py",
+      "sha256": "4c50edf6fa281715fd38d52a9945048a7a768a64c6bd37d0eddb9d8644738b15",
+      "bytes": 7612
+    },
+    {
+      "path": "skills/3dicon/iconloop/verify.py",
+      "sha256": "15a8f0f28180b21175290a00e1df969dda90d4ea15ffee65c8d8180480b3f894",
+      "bytes": 5417
+    },
+    {
+      "path": "skills/3dicon/LICENSE",
+      "sha256": "9791be9706d75b776a8c83f4b7897544a4eb8aaffaa60725b37bd6e4024d4f6e",
+      "bytes": 1065
+    },
+    {
+      "path": "skills/3dicon/requirements.txt",
+      "sha256": "283cd5aab48ae83bbbd97a4d9d23c0788dde0e406e22e06c466a36f7759d8468",
+      "bytes": 204
+    },
+    {
+      "path": "skills/3dicon/SKILL.md",
+      "sha256": "c4230f2e180a8c2f3484c7a5ced8cdf2b79a82fca777efcf9e0ee17a4bb38729",
+      "bytes": 11503
+    },
+    {
+      "path": "skills/3dicon/UPSTREAM.json",
+      "sha256": "9f0e5c28d59220fc56801eabd7c03a4662b9a2c7217355b2d593b3cb6d95adf8",
+      "bytes": 599
+    },
+    {
+      "path": "skills/blender-ai-surface-control/agents/openai.yaml",
+      "sha256": "52f0c1f55d7b9c0c9a182470aebe401b757c63074e2c19714af7a7d00b06d89f",
+      "bytes": 305
+    },
+    {
+      "path": "skills/blender-ai-surface-control/references/operations.md",
+      "sha256": "65f35897f7fbb23d8aa5f269149051f524b90f409aa5567bf38b222d3d0dbe1b",
+      "bytes": 1068
+    },
+    {
+      "path": "skills/blender-ai-surface-control/SKILL.md",
+      "sha256": "8b721e9c5ade307f8810b8d86c432c4d88ecd9a731b5dae121465b0c2c81bb4a",
+      "bytes": 3466
+    },
+    {
+      "path": "skills/blender-film-blockout/agents/openai.yaml",
+      "sha256": "11a7d829845d905dd68683808e703ed07ce21b6f2e12b6f9dfcf136af2a7e175",
+      "bytes": 279
+    },
+    {
+      "path": "skills/blender-film-blockout/SKILL.md",
+      "sha256": "be12110cde93b6940701eb475db23e93a64f37fa92d6a3a788edf2c2943855fc",
+      "bytes": 3742
+    },
+    {
+      "path": "skills/blender-game-animation/agents/openai.yaml",
+      "sha256": "b98acd71807017f7155ef25031acdd8a8751b52910ea090a2f6c84bc3b260608",
+      "bytes": 357
+    },
+    {
+      "path": "skills/blender-game-animation/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/blender-game-animation/references/engine-handoff.md",
+      "sha256": "b2987e82b7288f9a84d412f37560e095f78902d7298e2a28e06e6164ee2386cb",
+      "bytes": 2336
+    },
+    {
+      "path": "skills/blender-game-animation/references/source.md",
+      "sha256": "6fd7677eef5c67055716b9beb935a1a2afcb4d505e7f207b538039af9f13c345",
+      "bytes": 667
+    },
+    {
+      "path": "skills/blender-game-animation/SKILL.md",
+      "sha256": "0e3941f807bd83b4aab03158d6cb58a012904b60dd52c35bf0b38dd4bb813adf",
+      "bytes": 4482
+    },
+    {
+      "path": "skills/blender-game-asset-factory/SKILL.md",
+      "sha256": "6e6d9e6e9ce621f262914d57a0128eb4f322df40a3a09bf6041e1ad7c6f9d8ab",
+      "bytes": 2444
+    },
+    {
+      "path": "skills/character-sheet-pipeline/agents/openai.yaml",
+      "sha256": "b9b8fc59d308bdd8cbe1cdc2b4248b95b20687f942d401fe8ec56c8ed7072fd2",
+      "bytes": 347
+    },
+    {
+      "path": "skills/character-sheet-pipeline/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/character-sheet-pipeline/references/prompts-and-review.md",
+      "sha256": "ab85c454eaa76c671a432a1062ab3207a05b44292e304eba2af6e48b3eaa4e02",
+      "bytes": 2462
+    },
+    {
+      "path": "skills/character-sheet-pipeline/references/source.md",
+      "sha256": "bb8f3dfb98a95e9f88ae0300a29779d36641e7b8ee2fedee285df88b8f0f4eb5",
+      "bytes": 731
+    },
+    {
+      "path": "skills/character-sheet-pipeline/SKILL.md",
+      "sha256": "78a06d9c2ab2b423f139b0e90d4e10194aafc4f2dbb519c685d2c846a1ae1330",
+      "bytes": 2311
+    },
+    {
+      "path": "skills/character-visual-research/references/analysis.md",
+      "sha256": "5cc74d22e1ab2758be27005f3d433226c5d121959054796885145ef66feac635",
+      "bytes": 2146
+    },
+    {
+      "path": "skills/character-visual-research/references/collection.md",
+      "sha256": "042b1b79a4d91b6d3d05a6488231cb5cd0f41dc34148ec6d37ebccf0a96f2bdb",
+      "bytes": 1844
+    },
+    {
+      "path": "skills/character-visual-research/references/evidence.md",
+      "sha256": "eff918fe93a7b75bb7474c9521ac6668896226db7d44f6512a5c329e59c5427c",
+      "bytes": 3013
+    },
+    {
+      "path": "skills/character-visual-research/references/preference-tests.md",
+      "sha256": "785ff8baa5d3c023aee93c9245b94d9beef91bc917135fe86a51a883f6b46cdf",
+      "bytes": 1682
+    },
+    {
+      "path": "skills/character-visual-research/SKILL.md",
+      "sha256": "7a7b035a235722048d2010968771af0d3971f2775f0213637d196ca835930226",
+      "bytes": 3539
+    },
+    {
+      "path": "skills/character-voice-production/agents/openai.yaml",
+      "sha256": "371e11d617c1b43f3746025a2b41964a15996c3b9b8b78306323b21bcabeaf17",
+      "bytes": 498
+    },
+    {
+      "path": "skills/character-voice-production/assets/benchmark.jsonl",
+      "sha256": "a3c92ad7ad948254f8a217d1a37b12cb26e99e39dddaeef5c8a11d78381c624b",
+      "bytes": 4882
+    },
+    {
+      "path": "skills/character-voice-production/assets/listening-ratings.csv",
+      "sha256": "68cfe39d59dad33c4ae17f53bbf3cf5f5d5852e1749dafa884f58ec77739a3da",
+      "bytes": 189
+    },
+    {
+      "path": "skills/character-voice-production/assets/secourses-config-overrides.json",
+      "sha256": "1d7703dee67776db29f9d766282c2e0e17ec1913811b15c55fda3dd5fcd126b7",
+      "bytes": 1209
+    },
+    {
+      "path": "skills/character-voice-production/assets/voice-card.json",
+      "sha256": "4c895c5277f30d1e55c131dbc22f12c9c064b7b0abf2c02fae8d88a7c8ce0787",
+      "bytes": 1320
+    },
+    {
+      "path": "skills/character-voice-production/references/dataset.md",
+      "sha256": "79368bd86ee44840714e744bb00cfcc103989ffaaf4f91522498bba7a1841e73",
+      "bytes": 9048
+    },
+    {
+      "path": "skills/character-voice-production/references/evaluation-deployment.md",
+      "sha256": "504af51216900ee22dc4bff7917dbd70a00137869ffe4fe20baca65c8ac1c543",
+      "bytes": 11060
+    },
+    {
+      "path": "skills/character-voice-production/references/secourses-training.md",
+      "sha256": "632d69e1b16de6e6d9ee645c8034cf244e89ecbafa15d23e91bd6142b19db7da",
+      "bytes": 13473
+    },
+    {
+      "path": "skills/character-voice-production/references/sources.md",
+      "sha256": "43a6743cedb07e8ac3cced0d891cbf78e0944e434d67d9799c53cee56505cac1",
+      "bytes": 6065
+    },
+    {
+      "path": "skills/character-voice-production/references/voice-direction.md",
+      "sha256": "815d49d7dcddcffd4cbfc44257f4f3aa1ab06338f44bd1b6199410317c78d40f",
+      "bytes": 9718
+    },
+    {
+      "path": "skills/character-voice-production/references/whisper-and-benchmarks.md",
+      "sha256": "7845835318d6afb0a178df34720cc0a121c669a030ebc878dd3b6aacfaa850fa",
+      "bytes": 4797
+    },
+    {
+      "path": "skills/character-voice-production/scripts/audit_manifest.py",
+      "sha256": "809f375c094a66cfbaf466570e1cd29c6ef54091e4afac7a4c4810a8d8951b71",
+      "bytes": 11286
+    },
+    {
+      "path": "skills/character-voice-production/SKILL.md",
+      "sha256": "74790737a89509e1dab8e575762db58b0b6cd1290a453d47412d33be55d9bcfd",
+      "bytes": 6393
+    },
+    {
+      "path": "skills/cinema-development/agents/openai.yaml",
+      "sha256": "590efcfff83989a48c858a8325820619c3694e96900f204cc7f525846ff26445",
+      "bytes": 318
+    },
+    {
+      "path": "skills/cinema-development/references/scene-performance.md",
+      "sha256": "070bfdee1b76764c33b804c11b4e63206b351d063fa3e6c51ce7e1b630809886",
+      "bytes": 3693
+    },
+    {
+      "path": "skills/cinema-development/references/story-workshop.md",
+      "sha256": "44a5dba8ded1cd41f590e3eb1ae21b151b8a48c27e450f0ec2621c83b8ba6b75",
+      "bytes": 1987
+    },
+    {
+      "path": "skills/cinema-development/references/studio-writing.md",
+      "sha256": "35f8a9b75b55ad96dc73e81f4eebcc6d7d43ba989269ce25f3bb372e2492b6d5",
+      "bytes": 1999
+    },
+    {
+      "path": "skills/cinema-development/SKILL.md",
+      "sha256": "dab22797713c9ad42a8c02d247d6ce800717ec9713f8211ade81053887c4993d",
+      "bytes": 3348
+    },
+    {
+      "path": "skills/cinema-model-evaluation/agents/openai.yaml",
+      "sha256": "f604ca51d72be04bdd19a3c90b19b52d7e65dd377c0d47cbb9ce478451ce978c",
+      "bytes": 362
+    },
+    {
+      "path": "skills/cinema-model-evaluation/references/evaluation-protocol.md",
+      "sha256": "272853787bdb67939cf31a86251a9beeffa6cb131c52720f66c47f0be8e7c9f5",
+      "bytes": 2705
+    },
+    {
+      "path": "skills/cinema-model-evaluation/SKILL.md",
+      "sha256": "29acd8807c90a58398a070669296f2a7ced43f440cfb04aef80ceda9648a8690",
+      "bytes": 2792
+    },
+    {
+      "path": "skills/cinema-production/agents/openai.yaml",
+      "sha256": "a1876abaf1dc073e91ee6a0889a0c00dcad80ac09ff137b6a0fcf39032191bba",
+      "bytes": 347
+    },
+    {
+      "path": "skills/cinema-production/references/production-contract.md",
+      "sha256": "376ac1a41f812fef59e8ac68e59a5df3e855201c5c52d2089d29a80b7c6a884a",
+      "bytes": 4768
+    },
+    {
+      "path": "skills/cinema-production/SKILL.md",
+      "sha256": "2fa5aefe4d4219736e666cdb5a83af0196e65cc3865731c449a724b7e4a453c5",
+      "bytes": 4254
+    },
+    {
+      "path": "skills/cinema-project-strategy/agents/openai.yaml",
+      "sha256": "a0346e0a67db362178ac7122c9be3f0762f5a9afa3a5b944c75c599d1ddc8038",
+      "bytes": 351
+    },
+    {
+      "path": "skills/cinema-project-strategy/references/decision-model.md",
+      "sha256": "7a64c1b46cd46b4c3ea1b8a53182cad11663a4877fccf41dad90c8ba06ed7da7",
+      "bytes": 2101
+    },
+    {
+      "path": "skills/cinema-project-strategy/references/story-intelligence.md",
+      "sha256": "f5ad9b86fab398256bf1476aa1a1173a0124c326fdd4883ad251100ed6c32832",
+      "bytes": 2701
+    },
+    {
+      "path": "skills/cinema-project-strategy/SKILL.md",
+      "sha256": "90c765d319bbb7814f98240838e8107aca754c1b7b6e50edde538c5c61a05ded",
+      "bytes": 2660
+    },
+    {
+      "path": "skills/cinema-quality-review/agents/openai.yaml",
+      "sha256": "4ebecd1ae30e8673c619017c2ca7904383e3aff5b66c8c7444bad50153a5e58e",
+      "bytes": 312
+    },
+    {
+      "path": "skills/cinema-quality-review/references/review-rubric.md",
+      "sha256": "6cbbd9f0ef01ac6ed8e0e7f5b4651bac7d39add4fe2cbd9a0ba619c41fdcc1b9",
+      "bytes": 2000
+    },
+    {
+      "path": "skills/cinema-quality-review/SKILL.md",
+      "sha256": "f119d3a9e24db4a2a0592f907f01f8a324b8e81bab4ab6dced3890aae7fc0186",
+      "bytes": 2368
+    },
+    {
+      "path": "skills/cinema-reference-analysis/agents/openai.yaml",
+      "sha256": "162582dfd95fc209ab8dd0b4f0b48e40c9856d63414e604db7abd9227fe6273c",
+      "bytes": 361
+    },
+    {
+      "path": "skills/cinema-reference-analysis/references/evidence-card.md",
+      "sha256": "887447116522a10b5196e22095ea9d1831f701fe245358edb96fb2a6f648c16a",
+      "bytes": 1184
+    },
+    {
+      "path": "skills/cinema-reference-analysis/SKILL.md",
+      "sha256": "ec7099a93a6bf5f07b12019a79a02302f123d1c2d41d4ead4c267cb4fbf242ab",
+      "bytes": 2519
+    },
+    {
+      "path": "skills/cinema-visual-development/agents/openai.yaml",
+      "sha256": "0724160a74b766e7d081e4ca1d3ff8fb56937300a9e43220115b166a9daa747f",
+      "bytes": 334
+    },
+    {
+      "path": "skills/cinema-visual-development/references/asset-locks.md",
+      "sha256": "f7af6f69d18d4a5c234de3ac07ef7c77a3dca279880a978ac60960b19bf76fd9",
+      "bytes": 3456
+    },
+    {
+      "path": "skills/cinema-visual-development/references/visual-recipes.md",
+      "sha256": "38d91719014556f47767726911add6897ade0bf71dcc0416530c4de3826301eb",
+      "bytes": 2365
+    },
+    {
+      "path": "skills/cinema-visual-development/SKILL.md",
+      "sha256": "cb640f734471200028e5cdaaf68a37b6a8202a841f1fc0710617c9561cc036ae",
+      "bytes": 3264
+    },
+    {
+      "path": "skills/dlss5-video-finishing/agents/openai.yaml",
+      "sha256": "93c28694196046f095defe98089e389ba6151c39048eaadc17ae8e4349e20ec9",
+      "bytes": 363
+    },
+    {
+      "path": "skills/dlss5-video-finishing/assets/resolve-0.3.1.json",
+      "sha256": "ad90cc191b2422d45a760bba6c7058ebe1a43eb6d2803b54c82d89a4217f4ba4",
+      "bytes": 572
+    },
+    {
+      "path": "skills/dlss5-video-finishing/references/comfyui.md",
+      "sha256": "3d0e429f739f59d47a41b2f2779dae0e510d54092e371abef4ca37b357f6b496",
+      "bytes": 4979
+    },
+    {
+      "path": "skills/dlss5-video-finishing/references/diagnostics.md",
+      "sha256": "8d8e4cc94a1e141888fa922c6f50298dc509148af2782bd377f4a3721e3fc2d2",
+      "bytes": 5389
+    },
+    {
+      "path": "skills/dlss5-video-finishing/references/evaluation.md",
+      "sha256": "c5dc2c19e8a633f392f33b5f18313ed7015c63385e470e61b799e9e3b9021670",
+      "bytes": 6345
+    },
+    {
+      "path": "skills/dlss5-video-finishing/references/resolve.md",
+      "sha256": "03514db14b4ce4a57a57f4d4578dc42d1f93377ae68e6ca98755c23cd6c6f11e",
+      "bytes": 6301
+    },
+    {
+      "path": "skills/dlss5-video-finishing/references/sources.md",
+      "sha256": "0e9ac543101da675c01a852718bc8d8e451a76f7ac9e8d9c8feae5db49db67da",
+      "bytes": 9107
+    },
+    {
+      "path": "skills/dlss5-video-finishing/scripts/probe_resolve.py",
+      "sha256": "00d54e8f33f7664b09f1a939ac5b7016f9259cad2156119ce42a669af75ea4e8",
+      "bytes": 6932
+    },
+    {
+      "path": "skills/dlss5-video-finishing/SKILL.md",
+      "sha256": "f0ed76dfa9d199a0ebe259b9ad04b1e2598a4c4c975ad11923a6355e7a6fa00f",
+      "bytes": 5762
+    },
+    {
+      "path": "skills/film-postproduction/agents/openai.yaml",
+      "sha256": "9f825b886cb05828321fbd973fb01deacc43c96d52647cb3432857233357b3d1",
+      "bytes": 290
+    },
+    {
+      "path": "skills/film-postproduction/references/acceptance-scenarios.md",
+      "sha256": "9282180ea9b4aff86b727eebe9e1fca48c4356d8d45a914f79d462f848a64aed",
+      "bytes": 2727
+    },
+    {
+      "path": "skills/film-postproduction/references/cinematic-voice.md",
+      "sha256": "b3839cae16ce7fe31375e291a864e4abce9ff6b9c5256187f159acba3b449bd1",
+      "bytes": 5080
+    },
+    {
+      "path": "skills/film-postproduction/references/resolve-fusion.md",
+      "sha256": "796746c456df62152d6236587b12a54da47c54320adc6d4af6cc32116b070c87",
+      "bytes": 3285
+    },
+    {
+      "path": "skills/film-postproduction/references/sound-finishing.md",
+      "sha256": "59851c448933adfd1626f21a555fd8476110e52fca7d138d647373953f6d152a",
+      "bytes": 6151
+    },
+    {
+      "path": "skills/film-postproduction/references/studio-library.md",
+      "sha256": "fcd9c3348eb9a461e746a595d3726890fa276800ad67ebb1e17571c1e8809256",
+      "bytes": 2089
+    },
+    {
+      "path": "skills/film-postproduction/SKILL.md",
+      "sha256": "fda0c56f51124ed937b214f5780c0102736209a2361f7ba04edaa09c539b2d65",
+      "bytes": 5333
+    },
+    {
+      "path": "skills/film-shot-planning/agents/openai.yaml",
+      "sha256": "82641abfee2cc927a6f41df00f6b24d4d1142a390ff6a21282bdb1aaaba9a8be",
+      "bytes": 294
+    },
+    {
+      "path": "skills/film-shot-planning/references/shot-contract.md",
+      "sha256": "9f8c9c631046e271cb95c0eeaf45954c9e1b24b4714bcf0c30f933a875417a1a",
+      "bytes": 4824
+    },
+    {
+      "path": "skills/film-shot-planning/SKILL.md",
+      "sha256": "ce376e4dd61db09cb23dcf1d435549eda5f5e8f2c2d6d8de7cca1497b50fdbd2",
+      "bytes": 5237
+    },
+    {
+      "path": "skills/film-toolchain-maintenance/agents/openai.yaml",
+      "sha256": "1144f10e7e3bbdd5d718996a872ddb78cb8db16acd81f73571393535a10ff85a",
+      "bytes": 305
+    },
+    {
+      "path": "skills/film-toolchain-maintenance/references/operations.md",
+      "sha256": "41f2c72a11ee994ebe3df51860e66026ec8fe262fb2f3a73772309c9d563caaf",
+      "bytes": 1038
+    },
+    {
+      "path": "skills/film-toolchain-maintenance/SKILL.md",
+      "sha256": "1b0554b24ca675565a9c4bf4aebc208d5087f91bb15997c1826d30600247c04f",
+      "bytes": 3639
+    },
+    {
+      "path": "skills/film-workflow-learning/agents/openai.yaml",
+      "sha256": "bba89bdd4bcafc3a7f522810a10e2078e68ce8e3ddc2ce7af7e67dc6ff10f625",
+      "bytes": 317
+    },
+    {
+      "path": "skills/film-workflow-learning/references/maintenance-cases.md",
+      "sha256": "f9e2d3a96254c9577d41f43e6c985bf535a57be9cfd5facb2dd623d945002e2d",
+      "bytes": 2085
+    },
+    {
+      "path": "skills/film-workflow-learning/SKILL.md",
+      "sha256": "7f654b0082d5a303e088e65bb61436f63303483f3ee6d291233e458d14702175",
+      "bytes": 4268
+    },
+    {
+      "path": "skills/formula-driven-production/agents/openai.yaml",
+      "sha256": "0464431616f9d9bdb74e9bc28e5fceb60ba52dfec5c99312b96f54416bd1d32a",
+      "bytes": 458
+    },
+    {
+      "path": "skills/formula-driven-production/assets/FORMULA_CARD_RU.md",
+      "sha256": "284783d6d5ec2370cd37b5c24a7828f083e2116f5bbaa51bebeebae5a8c3da95",
+      "bytes": 2284
+    },
+    {
+      "path": "skills/formula-driven-production/assets/MASTER_FORMULA_BRIEF_RU.md",
+      "sha256": "21e4c8f156f74310b1f61f721782233bd43c18bbb6daa8ca8ee938cb06622f46",
+      "bytes": 5203
+    },
+    {
+      "path": "skills/formula-driven-production/references/ai-adapters.md",
+      "sha256": "879ed3636cfc2b1b68defda0a15e942e49d6dd24f53b7387d82f4f46586e51d2",
+      "bytes": 8323
+    },
+    {
+      "path": "skills/formula-driven-production/references/lab.md",
+      "sha256": "d4c20c8abcb8264d1dcf19a5ba469cdcf43706944f3337dc38f479d37e1660ed",
+      "bytes": 3835
+    },
+    {
+      "path": "skills/formula-driven-production/references/media.md",
+      "sha256": "561d55a86fba83b0e51c4c344ba5854be9527ddeaaeda94d6ec14809addf2741",
+      "bytes": 11524
+    },
+    {
+      "path": "skills/formula-driven-production/references/method.md",
+      "sha256": "7ad3334a1cfc56c265cbc86da353b909b51e04791b69868c5196b8a7a484e3c5",
+      "bytes": 12061
+    },
+    {
+      "path": "skills/formula-driven-production/references/procedural.md",
+      "sha256": "1a5d1c85a87815b1e106dfaeb7851d17fcedaf3141708be8c8df2e8d50b957d7",
+      "bytes": 8730
+    },
+    {
+      "path": "skills/formula-driven-production/references/sources.md",
+      "sha256": "f8b04572002284acfeb78ec10e8f0ab3934243ba0ad0ad3aab2d3b107718e9e2",
+      "bytes": 4126
+    },
+    {
+      "path": "skills/formula-driven-production/scripts/formula_lab.py",
+      "sha256": "ff0e20ee98c3e2ba7678a61efd63cba5ed0d896c3a7fa98919b5b7be38b4a84e",
+      "bytes": 10982
+    },
+    {
+      "path": "skills/formula-driven-production/SKILL.md",
+      "sha256": "34bca718c3d606efef1711878a22eaa26d279de7cd69b023b928cd4f67520ddf",
+      "bytes": 6167
+    },
+    {
+      "path": "skills/fusion-shot-repair/agents/openai.yaml",
+      "sha256": "63824c171c2a0e2a450eece4908bb823e969c76c5e4b72d8e75f85dd4cc8605e",
+      "bytes": 299
+    },
+    {
+      "path": "skills/fusion-shot-repair/references/operations.md",
+      "sha256": "a7055e08a3f7f9005e14206dafc307546d6f8b6c62776339d5121082fc98691e",
+      "bytes": 828
+    },
+    {
+      "path": "skills/fusion-shot-repair/SKILL.md",
+      "sha256": "dc20d733031e8856433180eb34ba59a3ef3b0695155b4c7e682878745ccc637e",
+      "bytes": 3163
+    },
+    {
+      "path": "skills/game-animation-integration/agents/openai.yaml",
+      "sha256": "578f1f7d1899aef1a91419d5b03a1ee7e748a688b51008c70a1864437d250b05",
+      "bytes": 353
+    },
+    {
+      "path": "skills/game-animation-integration/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/game-animation-integration/references/source.md",
+      "sha256": "885b1b20f48da0b1f8885d5af95a8887aeaacdc1fb5057ae313b8e96e2f79278",
+      "bytes": 667
+    },
+    {
+      "path": "skills/game-animation-integration/SKILL.md",
+      "sha256": "ba75130ee912a601517a2e55c2505c086bde0632146e1b325930156172499c24",
+      "bytes": 3514
+    },
+    {
+      "path": "skills/game-audio-workflow/agents/openai.yaml",
+      "sha256": "96239c37a9ce21f850556b3eaca0129c8abced5b37c0ef4e599331062cc66a66",
+      "bytes": 318
+    },
+    {
+      "path": "skills/game-audio-workflow/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/game-audio-workflow/references/source.md",
+      "sha256": "efa7954c0501914be28b6f267c897718f0a57db487ae19c3b508aaeae7cfbc6e",
+      "bytes": 1114
+    },
+    {
+      "path": "skills/game-audio-workflow/SKILL.md",
+      "sha256": "936deb6d3fd078ca4ee0f6960a5c1ef5fbdf33309db21d2dc1eb5898719affa8",
+      "bytes": 4240
+    },
+    {
+      "path": "skills/game-long-run-production/agents/openai.yaml",
+      "sha256": "1dc8e34f37fec8ce6aedd69678f1684ffcf285142b64623519478becd48ca579",
+      "bytes": 344
+    },
+    {
+      "path": "skills/game-long-run-production/references/claude-hooks.md",
+      "sha256": "0def99f072ddb9bc368229a023ca75cd4d4601c6922919e9caf9d209a3cdd06c",
+      "bytes": 658
+    },
+    {
+      "path": "skills/game-long-run-production/references/source.md",
+      "sha256": "b8bab6bb4aabdc235a58c8f11f4a776f79153ac0c8834a4a8af87ecc32d42297",
+      "bytes": 956
+    },
+    {
+      "path": "skills/game-long-run-production/references/state-contract.md",
+      "sha256": "3426f240ae0aa942abec6f4c6daf8cd106b82a68e6eeee6ffbecfeca54f257b0",
+      "bytes": 2235
+    },
+    {
+      "path": "skills/game-long-run-production/SKILL.md",
+      "sha256": "de1146d993184fc5108a8be35b2a37f317c39a21903e945abe6bdc56a5635c5e",
+      "bytes": 4440
+    },
+    {
+      "path": "skills/game-ui-workflow/agents/openai.yaml",
+      "sha256": "6b0b746698817bbcdf62156c4535a88d078cd0f18aa611cf697206334c6382f7",
+      "bytes": 326
+    },
+    {
+      "path": "skills/game-ui-workflow/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/game-ui-workflow/references/source.md",
+      "sha256": "353702b1a1a32ffb81276fc3e4328a57aa0e37dccd3e3bd8d610347a42f84242",
+      "bytes": 667
+    },
+    {
+      "path": "skills/game-ui-workflow/SKILL.md",
+      "sha256": "df72aed97c7b213d4a3a7b51f4c5a312e28b36c3ed49c6dc09db2381fb55b74e",
+      "bytes": 3538
+    },
+    {
+      "path": "skills/game-vfx-workflow/agents/openai.yaml",
+      "sha256": "08bccc94662124ea9081ac37e741a80f503228ea3c8bed9c7bbcaa242007a460",
+      "bytes": 321
+    },
+    {
+      "path": "skills/game-vfx-workflow/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/game-vfx-workflow/references/implementation.md",
+      "sha256": "e9a575d73ae53722f16039121d594bebc0b2273bc0a4ef8f4b9814cce5f7490b",
+      "bytes": 1724
+    },
+    {
+      "path": "skills/game-vfx-workflow/references/source.md",
+      "sha256": "c5c968bffe22c67573fdfccaec5c700c9f8be6f359237a1a4e880b8ea362eb8b",
+      "bytes": 667
+    },
+    {
+      "path": "skills/game-vfx-workflow/SKILL.md",
+      "sha256": "01805f15075b2a4f81882bef70ec9c2e0a8bc1c7789195c377f3c425c0b4943a",
+      "bytes": 3654
+    },
+    {
+      "path": "skills/gameplay-visual-review/agents/openai.yaml",
+      "sha256": "3f179cb936c0cef5f2001f861477a18026b809dd1ab911744a306e40736ee2e2",
+      "bytes": 351
+    },
+    {
+      "path": "skills/gameplay-visual-review/LICENSE",
+      "sha256": "0f5d97c88bc20aa6dbcef9b6b1afd1fe49439d77d1fd47f2a962b6dbe9c95522",
+      "bytes": 1087
+    },
+    {
+      "path": "skills/gameplay-visual-review/references/source.md",
+      "sha256": "2f74ed38768cba695d037b0225961eb13b3c22146171b850cdb75d813d88ec28",
+      "bytes": 667
+    },
+    {
+      "path": "skills/gameplay-visual-review/SKILL.md",
+      "sha256": "606f24d576cd460c87a83294160a6dfb85c46313a4d35e5dd05781a51d6a072a",
+      "bytes": 2951
+    },
+    {
+      "path": "skills/godot-atmospheric-worlds/SKILL.md",
+      "sha256": "00f3d00b70f6881dfb44abba47af27782354baa5268d0c8b3fb0e33229b3c78e",
+      "bytes": 2273
+    },
+    {
+      "path": "skills/godot-character-animation/SKILL.md",
+      "sha256": "970a2e6df9c3e5255f176d952e145c0cbf5d7bb2f69de775420d51851bf5b818",
+      "bytes": 2320
+    },
+    {
+      "path": "skills/godot-gameplay-production/SKILL.md",
+      "sha256": "84409ca78000df9e8786188b8ec297ce0dfb1a1abd8c41e4c8b4c5629c4b8e8b",
+      "bytes": 2267
+    },
+    {
+      "path": "skills/godot-look-performance/SKILL.md",
+      "sha256": "fe5b2df399e03906efa8a3b1bad83098d2a714b141ae39b96c9396143c59ce0e",
+      "bytes": 2271
+    },
+    {
+      "path": "skills/influencer-content/agents/openai.yaml",
+      "sha256": "7370a7f38f81d22b0dcbea78f1b47490f8cefa02220960f00eb44ab50097d372",
+      "bytes": 218
+    },
+    {
+      "path": "skills/influencer-content/SKILL.md",
+      "sha256": "6ba550057c9510120471e7e56166c3e4e3e0a22b68eca4ef341cafcdea61cb3d",
+      "bytes": 3137
+    },
+    {
+      "path": "skills/influencer-identity/agents/openai.yaml",
+      "sha256": "78ce0e8601d24a2caa60d78f7d722efdda1663715b43063a35bc473746b5eb99",
+      "bytes": 215
+    },
+    {
+      "path": "skills/influencer-identity/SKILL.md",
+      "sha256": "53ad0c63d9d3bc8587b805aa02fe6281b797e9fd00052b6d7ea9fcc4de4cb0f0",
+      "bytes": 3633
+    },
+    {
+      "path": "skills/influencer-pipeline/agents/openai.yaml",
+      "sha256": "1b0c4f44dbacc567a1840b47915e7e3c090f7e747f066465d010b101b1a3d022",
+      "bytes": 228
+    },
+    {
+      "path": "skills/influencer-pipeline/SKILL.md",
+      "sha256": "47fb4976b2bc403eff2951b9a44f1c84f6df645c887b001d1ac44f8031e5e089",
+      "bytes": 4249
+    },
+    {
+      "path": "skills/influencer-product/agents/openai.yaml",
+      "sha256": "31f05ed9e5d43c024d55fb71e1cc4e3bba72c45c7380d12cc718183efe3c55df",
+      "bytes": 228
+    },
+    {
+      "path": "skills/influencer-product/SKILL.md",
+      "sha256": "392ace705ec748e9cb74d44e501c5ff71d27aaddcc6e7fccf2adf5a3b657f67c",
+      "bytes": 2673
+    },
+    {
+      "path": "skills/influencer-video/agents/openai.yaml",
+      "sha256": "5edd08cdb455ef8e7a610acb2df5a6f8b2b61f61ba2eeafacc132d711b0074ca",
+      "bytes": 207
+    },
+    {
+      "path": "skills/influencer-video/SKILL.md",
+      "sha256": "bb4369f7b746f46939758cdc516ea8ce41689dc62c241912fbe146457a09f784",
+      "bytes": 4312
+    },
+    {
+      "path": "skills/krea-character-training/agents/openai.yaml",
+      "sha256": "01d6a0594b069f0dffd304db12f457680637124b9a582e6fe06a45c899994546",
+      "bytes": 347
+    },
+    {
+      "path": "skills/krea-character-training/SKILL.md",
+      "sha256": "89142c58043381be61f4e3ec292e29504a8cb05d84dfcbf392a4446c749559b8",
+      "bytes": 2343
+    },
+    {
+      "path": "skills/krea-lora-testing/agents/openai.yaml",
+      "sha256": "a5402d536a05396c59ed81d45399ecb4f7437a9c8beb6abde6c74dac998733c6",
+      "bytes": 346
+    },
+    {
+      "path": "skills/krea-lora-testing/SKILL.md",
+      "sha256": "1b9ba88c2689e2dd67bda9a1537daa8c14b7164f836cfc42ed2c64c8f3d0dafc",
+      "bytes": 1897
+    },
+    {
+      "path": "skills/living-npc-brain/agents/openai.yaml",
+      "sha256": "b4e05426b1aef897c3a7a0c45fd9857c706006bade55e350dbfbab7c525aac50",
+      "bytes": 370
+    },
+    {
+      "path": "skills/living-npc-brain/assets/behavior-cases.json",
+      "sha256": "411c32127e91a87a089a9bcb94e4f0e12eb812e8c931b6db6ce4171112ea4cbb",
+      "bytes": 11084
+    },
+    {
+      "path": "skills/living-npc-brain/references/aiwaifu.md",
+      "sha256": "56339bdb6c8678657ef336dcbcdbcc95d79b939187250a506d680856fd873139",
+      "bytes": 5601
+    },
+    {
+      "path": "skills/living-npc-brain/references/behavior.md",
+      "sha256": "93f57ba381e7d068d0e099d988b63fd6708e5358f7bf3ade0028ace8c5fe4841",
+      "bytes": 10226
+    },
+    {
+      "path": "skills/living-npc-brain/references/evaluation.md",
+      "sha256": "e2de44b5901bd824a8fc525bcf9bc2166c68ac10f8a620f31a2755aa62538231",
+      "bytes": 6594
+    },
+    {
+      "path": "skills/living-npc-brain/references/memory.md",
+      "sha256": "11654c421af0cbc8225a3f18c4fd72ffda3f00ff6c5d5d01790003689aed71e0",
+      "bytes": 9466
+    },
+    {
+      "path": "skills/living-npc-brain/references/sources.md",
+      "sha256": "21327b102b48a0faedd16048ef56cae0637abe7be2f707c8c2c4a7a5c4c317e6",
+      "bytes": 10235
+    },
+    {
+      "path": "skills/living-npc-brain/references/tools.md",
+      "sha256": "484e5742df015c5aea7a474b8ab854d98ef53e71ccc1115c77224b4c7162cb01",
+      "bytes": 9165
+    },
+    {
+      "path": "skills/living-npc-brain/SKILL.md",
+      "sha256": "2ee18ea2275c2b37d5f74b51b8700b9a498410c9ccce287ce9aacbf2befb31d8",
+      "bytes": 8759
+    },
+    {
+      "path": "skills/procedural-audio/agents/openai.yaml",
+      "sha256": "c80fe168c0a829273e66455b7f2caef18c0c9bd703dadc490e3867a674f6976c",
+      "bytes": 463
+    },
+    {
+      "path": "skills/procedural-audio/assets/mech-study.json",
+      "sha256": "50f7af94f6c6647ded3904668ad889894ab394b2be02ee29c0449e818f29852e",
+      "bytes": 21355
+    },
+    {
+      "path": "skills/procedural-audio/references/reference-method.md",
+      "sha256": "e1b67e4c9b7b21915475c31890b3e0cf6fee770396511f10eb1fc80300567863",
+      "bytes": 2247
+    },
+    {
+      "path": "skills/procedural-audio/references/renderer.md",
+      "sha256": "3e6b84d076eb0ae0c99fd5675d0502d52a8aae804c3725e9443b69e392c1c849",
+      "bytes": 2675
+    },
+    {
+      "path": "skills/procedural-audio/references/source.md",
+      "sha256": "f4a11dc6f52d06b9bf29255152f6578ec284b33c96239ca2e669e50b9844261f",
+      "bytes": 1316
+    },
+    {
+      "path": "skills/procedural-audio/scripts/render_bank.py",
+      "sha256": "e77962e4266ea4dbf0febf0486bc62f92df0942f89867c0aefa576df4e8d2ee8",
+      "bytes": 11663
+    },
+    {
+      "path": "skills/procedural-audio/SKILL.md",
+      "sha256": "37720de2060fd4251f6335ce1ecc5cae3eca5a83bc0b7a0c2c0862d47526aa12",
+      "bytes": 3753
+    },
+    {
+      "path": "skills/production-brief-architect/agents/openai.yaml",
+      "sha256": "390bbe187ff99207518fa3cbed60beb9ddecd743141230ab6ccc06099f7e2df4",
+      "bytes": 455
+    },
+    {
+      "path": "skills/production-brief-architect/assets/MASTER_GAME_BRIEF_RU.md",
+      "sha256": "371fed508aca6dbe32200fbe807b1db8119849ff0471d52c2c14b7f78474dbb9",
+      "bytes": 28574
+    },
+    {
+      "path": "skills/production-brief-architect/assets/MASTER_VIDEO_BRIEF_RU.md",
+      "sha256": "b73df9f31f7646eda94f78ceac6f2918e55c78247aafe68df33949a36312aa81",
+      "bytes": 28993
+    },
+    {
+      "path": "skills/production-brief-architect/references/game-contracts.md",
+      "sha256": "9f009f398449bb74862a8c806ce5b0fbed4185ef5e230d7c5f4c80952e631aa5",
+      "bytes": 6054
+    },
+    {
+      "path": "skills/production-brief-architect/references/quality-review.md",
+      "sha256": "eff26a57e065b9d019de38692aba48194404d499ce70364ec9ba9ca68fff5513",
+      "bytes": 3243
+    },
+    {
+      "path": "skills/production-brief-architect/references/reference-tool-loop.md",
+      "sha256": "9825d565a3a69c9db164295502543d2250455fc194ae631905fb7120320397ca",
+      "bytes": 3426
+    },
+    {
+      "path": "skills/production-brief-architect/references/sources.md",
+      "sha256": "4c78b82122970b1799f9126b19c7c08318b73f2e02fdda224e23da29fe5dacbf",
+      "bytes": 2341
+    },
+    {
+      "path": "skills/production-brief-architect/references/video-contracts.md",
+      "sha256": "49cf5056447c975408fab46897c778104894514c1f2c0e075b6dd4c3dd8ba6d8",
+      "bytes": 5971
+    },
+    {
+      "path": "skills/production-brief-architect/SKILL.md",
+      "sha256": "11db76ec2915ff523b71bff6f5644b72625cf10fcf5f8a962fee82cd937adb6d",
+      "bytes": 6829
+    },
+    {
+      "path": "skills/seedance-production/references/byteplus.md",
+      "sha256": "eae3a8cd27b4e7a9a07f1bb9ebf97f0294302c8d6f30f5c736ba20f21c2d95a8",
+      "bytes": 5132
+    },
+    {
+      "path": "skills/seedance-production/references/direction.md",
+      "sha256": "7057a34f6ae0e45dead21515b2238477a9d728fad6fa98f34ef11c923615c08f",
+      "bytes": 5168
+    },
+    {
+      "path": "skills/seedance-production/references/evidence.md",
+      "sha256": "8af72fe25fabcfdde643087ab6449a21974a046c927127a367d9bd92aa96b474",
+      "bytes": 2248
+    },
+    {
+      "path": "skills/seedance-production/SKILL.md",
+      "sha256": "4a47558e8791a87670ff8d83c8cb5b189ca94b939b529cd2522cad50935e900c",
+      "bytes": 3252
+    },
+    {
+      "path": "skills/topaz-video-finishing/agents/openai.yaml",
+      "sha256": "910eced53ab1ddf57a30c084b5ebc23d8879db9771395af9e587961fe202159a",
+      "bytes": 368
+    },
+    {
+      "path": "skills/topaz-video-finishing/references/evaluation.md",
+      "sha256": "3a1d979785c6cb6b7de280f02cafea039c71f2f649cc1acf1ffd878970fa410b",
+      "bytes": 4694
+    },
+    {
+      "path": "skills/topaz-video-finishing/references/learning-sources.md",
+      "sha256": "dc2075dc7d114844602e3e1657b63d89879faad70d668e97068041d2a5e6549b",
+      "bytes": 9412
+    },
+    {
+      "path": "skills/topaz-video-finishing/references/local-state.md",
+      "sha256": "3b541ae527624753717776418648b9f6bfab0ea5a3e85f1dfb57ebea2ff4cee5",
+      "bytes": 5052
+    },
+    {
+      "path": "skills/topaz-video-finishing/references/models-controls.md",
+      "sha256": "727d2c43a1ae547b1fd22f35ea3a6e481ddd53b4d660e8426e80f1a48791ba9c",
+      "bytes": 8382
+    },
+    {
+      "path": "skills/topaz-video-finishing/references/resolve-roundtrip.md",
+      "sha256": "429ccbbdb2b8a3cb8afe476c9bc19e826885288cb5e06b884c4b2cc9bdd7f719",
+      "bytes": 7601
+    },
+    {
+      "path": "skills/topaz-video-finishing/references/windows-cli.md",
+      "sha256": "5f4d1d917d14d7fcdb402ec4e74bb271388d8f2fb69474e3f9943c8054fbca0c",
+      "bytes": 7591
+    },
+    {
+      "path": "skills/topaz-video-finishing/scripts/prepare_baseline.py",
+      "sha256": "87d555f8b038d8146414a202714f55713a13ea92c4c5b1bccb2a2b63e95da6a2",
+      "bytes": 9108
+    },
+    {
+      "path": "skills/topaz-video-finishing/SKILL.md",
+      "sha256": "f6197e6954fe8d7b5b7c97c85d99f6bf7d06dc8c46d734ad4d071529c42818a6",
+      "bytes": 4959
+    }
+  ],
+  "public_export_changes": [
+    {
+      "path": "skills/dlss5-video-finishing/SKILL.md",
+      "source_sha256": "eaac488043e82832e5e84e0020190a207bcded07838632e2a0762ae2ac159939",
+      "export_sha256": "f0ed76dfa9d199a0ebe259b9ad04b1e2598a4c4c975ad11923a6355e7a6fa00f"
+    },
+    {
+      "path": "skills/game-long-run-production/references/claude-hooks.md",
+      "source_sha256": "c182d0677e6a5429de45cddb93cb417a49410662039d0ffaa10641bc0d8f044c",
+      "export_sha256": "0def99f072ddb9bc368229a023ca75cd4d4601c6922919e9caf9d209a3cdd06c"
+    },
+    {
+      "path": "skills/game-long-run-production/references/source.md",
+      "source_sha256": "224a46a4bfd10c3d4c5a86022f9e086f4b64683c0ff2ebd18ba81269bf65700b",
+      "export_sha256": "b8bab6bb4aabdc235a58c8f11f4a776f79153ac0c8834a4a8af87ecc32d42297"
+    },
+    {
+      "path": "skills/game-long-run-production/SKILL.md",
+      "source_sha256": "42c61ad844063b265b634653ac5d507be9692a9276e556dc10ca675f06f0fdcd",
+      "export_sha256": "de1146d993184fc5108a8be35b2a37f317c39a21903e945abe6bdc56a5635c5e"
+    },
+    {
+      "path": "skills/seedance-production/references/evidence.md",
+      "source_sha256": "9b52cef9ce437a85e005f631a6f5d289fdc999ac90bd92530f713aebccca9dcc",
+      "export_sha256": "8af72fe25fabcfdde643087ab6449a21974a046c927127a367d9bd92aa96b474"
+    }
+  ],
+  "excluded_files": [
+    {
+      "path": "dlss5-video-finishing/scripts/__pycache__/probe_resolve.cpython-312.pyc",
+      "reason": "generated Python cache"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/hooks/compaction_log.py",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/hooks/keep_working.py",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/hooks/lane_contract.py",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/hooks/reanchor.py",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/project-rules/CLAUDE.md",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/project-rules/Docs/KICKOFF.md",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/project-rules/Docs/TASK.md",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/settings.original.json",
+      "reason": "third-party original kit; redistribution permission not established"
+    },
+    {
+      "path": "game-long-run-production/assets/claude-code-original/SHA256.json",
+      "reason": "third-party original kit; redistribution permission not established"
+    }
+  ]
+}

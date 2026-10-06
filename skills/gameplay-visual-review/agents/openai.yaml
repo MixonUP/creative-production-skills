@@ -1,0 +1,4 @@
+interface:
+  display_name: "Визуальная проверка игры"
+  short_description: "Сравнение игрового кадра и поведения в движке"
+  default_prompt: "Используй $gameplay-visual-review для текущей игровой задачи с проверяемым результатом."

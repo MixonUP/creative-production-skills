@@ -1,0 +1,4 @@
+interface:
+  display_name: "Длительный игровой прогон"
+  short_description: "Этапы, память прогона, задания и приёмка"
+  default_prompt: "Используй $game-long-run-production для текущей игровой задачи с проверяемым результатом."

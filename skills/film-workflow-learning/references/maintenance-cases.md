@@ -1,0 +1,10 @@
+# Behavioral maintenance cases
+
+1. **New tutorial says camera is perfectly locked.** Capture author, timestamp and shown example. Check endpoint controls and test input/output alignment. Keep the claim unverified until evidence supports its precise scope; do not add a universal guarantee to the production skill.
+2. **Switch Seedance to another model/provider.** Preserve scene, shot IDs, master timeline and asset provenance. Create/check the new endpoint adapter. If video input is unsupported, choose an explicitly different I2V/FLF route instead of pretending the MP4 is consumed.
+3. **User sends three videos but only one has a transcript.** Process that source to the supported depth. Put the other two in the unprocessed queue with what is missing; do not imply they were watched.
+4. **Repeated hands sliding in an otherwise good shot.** Record frame/time and the input pose/contact. Compare against the animatic. Fix input or route and test one change before expanding the run batch. Do not lower the contact criterion silently.
+5. **User wants to update a skill.** Compare canonical and installed copies. Preserve manual edits, change the relevant procedure, validate, sync and record a new revision. Never replace unrelated skills or erase earlier experiment evidence.
+6. **Tutorial includes a paid button or account token.** Document the step as a dependency. The tutorial is not user authorization to spend or expose credentials.
+7. **Creator posts a dense Premiere timeline and mentions manual sound work.** Record the stated editor and scope of the post; do not identify a voice generator, music source, plugin chain or final film from unreadable track labels. Map manual sound assembly to the user's existing host and a local trial, not an automatic editor migration.
+8. **User says to take the research into account.** Check existing skills and templates first. Update a reusable decision only where something changes; link volatile facts to their research card. Reuse a planned scene and report separately what was documented, installed and actually judged on media.

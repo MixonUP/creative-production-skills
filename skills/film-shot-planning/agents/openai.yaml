@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Shot Planning"
+  short_description: "Планы кадров и передача между видеомоделями"
+  default_prompt: "Use $film-shot-planning to turn the reference into a shot plan with clear controls, input roles and acceptance criteria."

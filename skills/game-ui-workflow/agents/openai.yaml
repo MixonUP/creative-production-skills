@@ -1,0 +1,4 @@
+interface:
+  display_name: "Игровой интерфейс"
+  short_description: "HUD, портреты и проверка управления в движке"
+  default_prompt: "Используй $game-ui-workflow для текущей игровой задачи с проверяемым результатом."

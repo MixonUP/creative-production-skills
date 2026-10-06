@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krea — тесты LoRA"
+  short_description: "Сравнение checkpoints и запись результатов XY Plot"
+  default_prompt: "Используй $krea-lora-testing для подготовки сравнения LoRA с одинаковыми seed и сохранением результатов."

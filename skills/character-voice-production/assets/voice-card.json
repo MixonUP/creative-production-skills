@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "status": "brief_template",
+  "voice_id": null,
+  "character_id": null,
+  "version": null,
+  "languages": [],
+  "role_and_intention": null,
+  "stable_identity": {
+    "register": null,
+    "resonance": null,
+    "texture": null,
+    "articulation": null,
+    "pace_and_rhythm": null,
+    "accent": null,
+    "avoid": [],
+    "contrast_with_other_characters": []
+  },
+  "performance_profiles": [],
+  "recording_provenance": {
+    "speaker_or_synthetic_source": null,
+    "source_paths": [],
+    "usage_scope_record": null,
+    "session_ids": []
+  },
+  "dataset": {
+    "manifest_path": null,
+    "manifest_sha256": null,
+    "split_plan": null,
+    "accepted_minutes": null,
+    "independent_test": null
+  },
+  "deployment": {
+    "provider": null,
+    "base_revision": null,
+    "reference_path": null,
+    "reference_sha256": null,
+    "adapter_path": null,
+    "adapter_sha256": null,
+    "adapter_strength": null,
+    "decoder_path": null,
+    "decoder_sha256": null,
+    "decoder_strength": null,
+    "generation_settings_path": null,
+    "pronunciation_dictionary": null
+  },
+  "acceptance": {
+    "critical_lines": [],
+    "runtime_budget": null,
+    "technical_report": null,
+    "listening_ratings": null,
+    "accepted_by": null,
+    "accepted_at": null,
+    "known_limits": []
+  }
+}

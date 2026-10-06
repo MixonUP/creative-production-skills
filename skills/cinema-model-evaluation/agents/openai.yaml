@@ -1,0 +1,4 @@
+interface:
+  display_name: "Испытания видеомоделей"
+  short_description: "Качество, управляемость и цена принятых секунд"
+  default_prompt: "Используй $cinema-model-evaluation. Спланируй сравнение двух маршрутов генерации нужной сцены."

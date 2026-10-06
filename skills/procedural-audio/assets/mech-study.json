@@ -1,0 +1,918 @@
+{
+  "schema_version": 1,
+  "title": "Original local mechanical study",
+  "sample_rate": 48000,
+  "seed": 147,
+  "score": {
+    "bpm": 120,
+    "bars": 4,
+    "beats_per_bar": 4,
+    "note_material": "Original short technical sketch; no source melody or samples"
+  },
+  "cues": [
+    {
+      "id": "metal_light",
+      "label": "Металл — лёгкий контакт",
+      "role": "sfx",
+      "event": "Подтверждённый контакт; начало соответствует удару",
+      "reference_property": "Короткое возбуждение и более яркий звон",
+      "duration": 0.9,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 0.9,
+          "amplitude": 0.42,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 2,
+          "f0": 330,
+          "partials": [
+            [
+              1,
+              0.9,
+              0.18
+            ],
+            [
+              1.47,
+              0.55,
+              0.12
+            ],
+            [
+              2.31,
+              0.35,
+              0.08
+            ],
+            [
+              3.83,
+              0.18,
+              0.06
+            ]
+          ]
+        },
+        {
+          "type": "noise",
+          "start": 0,
+          "duration": 0.06,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.012,
+          "lowpass_hz": 7500
+        }
+      ]
+    },
+    {
+      "id": "metal_heavy",
+      "label": "Металл — тяжёлый контакт",
+      "role": "sfx",
+      "event": "То же событие; сравнить массу при одинаковой дистанции",
+      "reference_property": "Более низкое тело, приглушённый верх и длинный хвост",
+      "duration": 1.2,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 1.2,
+          "amplitude": 0.64,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 2,
+          "f0": 94,
+          "partials": [
+            [
+              1,
+              1,
+              0.28
+            ],
+            [
+              1.52,
+              0.55,
+              0.24
+            ],
+            [
+              2.67,
+              0.29,
+              0.12
+            ],
+            [
+              4.2,
+              0.16,
+              0.07
+            ]
+          ]
+        },
+        {
+          "type": "noise",
+          "start": 0,
+          "duration": 0.12,
+          "amplitude": 0.23,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.023,
+          "lowpass_hz": 2300
+        }
+      ]
+    },
+    {
+      "id": "servo_move",
+      "label": "Сервопривод — разгон",
+      "role": "sfx",
+      "event": "Движение шарнира; прерывание и остановка требуют отдельного хвоста",
+      "reference_property": "Восходящий тон и гармоники; эскиз движения механизма",
+      "duration": 1.4,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 1.4,
+          "amplitude": 0.22,
+          "attack": 0.13,
+          "release": 0.25,
+          "decay": 3,
+          "f0": 95,
+          "f1": 310,
+          "partials": [
+            [
+              1,
+              1,
+              4
+            ],
+            [
+              2,
+              0.4,
+              4
+            ],
+            [
+              3,
+              0.18,
+              4
+            ]
+          ]
+        },
+        {
+          "type": "noise",
+          "start": 0,
+          "duration": 1.4,
+          "amplitude": 0.08,
+          "attack": 0.1,
+          "release": 0.22,
+          "decay": 2,
+          "lowpass_hz": 1000
+        }
+      ]
+    },
+    {
+      "id": "energy_pulse",
+      "label": "Энергетический импульс",
+      "role": "sfx",
+      "event": "Команда испущена; попадание озвучивается отдельным событием",
+      "reference_property": "Быстрый спад высоты, короткая шумовая атака",
+      "duration": 0.65,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 0.65,
+          "amplitude": 0.25,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.2,
+          "f0": 1800,
+          "f1": 90,
+          "partials": [
+            [
+              1,
+              1,
+              0.16
+            ],
+            [
+              1.5,
+              0.2,
+              0.12
+            ]
+          ]
+        },
+        {
+          "type": "noise",
+          "start": 0,
+          "duration": 0.07,
+          "amplitude": 0.16,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.02,
+          "lowpass_hz": 6500
+        }
+      ]
+    },
+    {
+      "id": "ui_confirm",
+      "label": "Интерфейс — подтверждение",
+      "role": "ui",
+      "event": "Успешное подтверждение действия, а не каждое нажатие",
+      "reference_property": "Два различимых тона без длинного хвоста",
+      "duration": 0.55,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 0.2,
+          "amplitude": 0.15,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.14,
+          "f0": 660
+        },
+        {
+          "type": "tone",
+          "start": 0.18,
+          "duration": 0.3,
+          "amplitude": 0.15,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.2,
+          "f0": 880
+        }
+      ]
+    },
+    {
+      "id": "music_bass",
+      "label": "Музыкальный слой — бас",
+      "role": "music-stem",
+      "event": "4 такта, 120 BPM, старт с общим нулём",
+      "reference_property": "Опора для согласованного изменения плотности",
+      "duration": 8,
+      "loop": true,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 2.2,
+          "amplitude": 0.15,
+          "attack": 0.025,
+          "release": 0.2,
+          "decay": 1,
+          "f0": 73.41619197935188,
+          "partials": [
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              2,
+              0.2,
+              10
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 2,
+          "duration": 2.2,
+          "amplitude": 0.15,
+          "attack": 0.025,
+          "release": 0.2,
+          "decay": 1,
+          "f0": 87.30705785825097,
+          "partials": [
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              2,
+              0.2,
+              10
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 4,
+          "duration": 2.2,
+          "amplitude": 0.15,
+          "attack": 0.025,
+          "release": 0.2,
+          "decay": 1,
+          "f0": 65.40639132514966,
+          "partials": [
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              2,
+              0.2,
+              10
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 6,
+          "duration": 2.2,
+          "amplitude": 0.15,
+          "attack": 0.025,
+          "release": 0.2,
+          "decay": 1,
+          "f0": 97.99885899543733,
+          "partials": [
+            [
+              1,
+              1,
+              10
+            ],
+            [
+              2,
+              0.2,
+              10
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music_motif",
+      "label": "Музыкальный слой — мотив",
+      "role": "music-stem",
+      "event": "Тот же музыкальный период и гармонический план",
+      "reference_property": "Собственный короткий мотив; управляемые ноты и длительности",
+      "duration": 8,
+      "loop": true,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 146.8323839587038,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 1,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 220,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 2,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 174.61411571650194,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 3,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 261.6255653005986,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 4,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 130.8127826502993,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 5,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 195.99771799087463,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 6,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 195.99771799087463,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        },
+        {
+          "type": "tone",
+          "start": 7,
+          "duration": 0.8,
+          "amplitude": 0.12,
+          "attack": 0.003,
+          "release": 0.08,
+          "decay": 0.35,
+          "f0": 293.6647679174076,
+          "partials": [
+            [
+              1,
+              1,
+              3
+            ],
+            [
+              2,
+              0.17,
+              1
+            ],
+            [
+              3,
+              0.07,
+              0.5
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music_rhythm",
+      "label": "Музыкальный слой — ритм",
+      "role": "music-stem",
+      "event": "Тот же музыкальный период; добавляется при росте энергии",
+      "reference_property": "Пульс с короткими ударами; без изменения темпа других слоёв",
+      "duration": 8,
+      "loop": true,
+      "events": [
+        {
+          "type": "tone",
+          "start": 0,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 0.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 0.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 0.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 1,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 1.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 1.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 1.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 2,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 2.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 2.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 2.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 3,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 3.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 3.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 3.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 4,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 4.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 4.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 4.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 5,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 5.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 5.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 5.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 6,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 6.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 6.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 6.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "tone",
+          "start": 7,
+          "duration": 0.24,
+          "amplitude": 0.28,
+          "attack": 0.003,
+          "release": 0.04,
+          "decay": 0.065,
+          "f0": 110,
+          "f1": 43
+        },
+        {
+          "type": "noise",
+          "start": 7.25,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        },
+        {
+          "type": "noise",
+          "start": 7.5,
+          "duration": 0.14,
+          "amplitude": 0.17,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.035,
+          "lowpass_hz": 5500
+        },
+        {
+          "type": "noise",
+          "start": 7.75,
+          "duration": 0.07,
+          "amplitude": 0.06,
+          "attack": 0.003,
+          "release": 0.025,
+          "decay": 0.014,
+          "lowpass_hz": 11000
+        }
+      ]
+    },
+    {
+      "id": "music_mix",
+      "label": "Музыкальный эскиз — сборка",
+      "role": "music-mix",
+      "event": "Сумма трёх слоёв; технический эскиз, не готовый саундтрек",
+      "reference_property": "Проверить совместимость слоёв и повторение 8-секундного периода",
+      "duration": 8,
+      "loop": true,
+      "mix": [
+        "music_bass",
+        "music_motif",
+        "music_rhythm"
+      ]
+    }
+  ]
+}

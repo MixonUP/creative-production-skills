@@ -1,0 +1,4 @@
+interface:
+  display_name: "Influencer Pipeline"
+  short_description: "Coordinate batches across our production tools"
+  default_prompt: "Use $influencer-pipeline to prepare a traceable influencer batch with quality gates."

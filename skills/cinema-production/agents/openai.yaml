@@ -1,0 +1,4 @@
+interface:
+  display_name: "Производство AI-фильма"
+  short_description: "Этапы, версии и передача между инструментами"
+  default_prompt: "Используй $cinema-production. Организуй производство фильма на нашем текущем пайплайне."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topaz: доводка видео и Resolve MCP"
+  short_description: "Модели Topaz, Windows CLI, контроль и возврат в Resolve"
+  default_prompt: "Используй $topaz-video-finishing для доводки нашего видео в Topaz и проверенного возврата в Resolve через MCP."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Референсы 3D-персонажа"
+  short_description: "Согласованные ракурсы и отдельные компоненты"
+  default_prompt: "Используй $character-sheet-pipeline для текущей игровой задачи с проверяемым результатом."

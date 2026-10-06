@@ -1,0 +1,4 @@
+interface:
+  display_name: "Выбор кинопроекта"
+  short_description: "Смысл, аудитория и экономика нового фильма"
+  default_prompt: "Используй $cinema-project-strategy. Сравни идеи фильма по авторскому замыслу, аудитории и затратам."

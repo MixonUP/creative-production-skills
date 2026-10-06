@@ -1,0 +1,4 @@
+interface:
+  display_name: "Игровая анимация: интеграция"
+  short_description: "Повороты, фазы шага, события и прерывания"
+  default_prompt: "Используй $game-animation-integration для текущей игровой задачи с проверяемым результатом."

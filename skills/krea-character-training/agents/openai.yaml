@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krea — обучение LoRA"
+  short_description: "Датасеты, конфиги и учёт тренировок Krea2"
+  default_prompt: "Используй $krea-character-training для подготовки и проверки нового обучения с записью в журнал проекта."

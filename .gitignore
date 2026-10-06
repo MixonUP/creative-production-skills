@@ -1,0 +1,16 @@
+# Credentials, local state and generated files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.db
+local/

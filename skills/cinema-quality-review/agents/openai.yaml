@@ -1,0 +1,4 @@
+interface:
+  display_name: "Приёмка фильма"
+  short_description: "История, игра, изображение, звук и delivery"
+  default_prompt: "Используй $cinema-quality-review. Проверь фильм и предложи самые важные исправления."

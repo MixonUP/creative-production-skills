@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1230" viewBox="0 0 1120 1230" role="img" aria-labelledby="title desc">
+<title id="title">Карта 44 навыков и белых пятен</title><desc id="desc">10 групп навыков. Отдельно показаны три приоритетных пробела: оценка навыков, переносимость и выпуск. Наличие навыка не доказывает готовность всего производства.</desc>
+<rect width="1120" height="1230" rx="22" fill="#0B1120"/>
+<text x="42" y="56" fill="#E8EDF7" font-size="30" font-weight="600" font-family="Segoe UI,Arial,sans-serif">КАРТА ВОЗМОЖНОСТЕЙ</text>
+<text x="42" y="94" fill="#9BACCA" font-size="20" font-weight="400" font-family="Segoe UI,Arial,sans-serif">44 навыка · 10 направлений · снимок 07.10.2026</text>
+<rect x="40" y="128" width="1040" height="104" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="40" y="148" width="4" height="64" rx="2" fill="#68DEC7"/>
+<text x="62" y="162" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Основа: замысел → метод → исполнение → память</text>
+<text x="1040" y="162" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">4</text>
+<text x="62" y="195" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Подробные задания · формулы · обучение на опыте · обслуживание инструментов</text>
+<path d="M560 239 V267 M552 259 L560 267 L568 259" fill="none" stroke="#58708F" stroke-width="2"/>
+<path d="M560 416 V444 M552 436 L560 444 L568 436" fill="none" stroke="#58708F" stroke-width="2"/>
+<path d="M560 605 V633 M552 625 L560 633 L568 625" fill="none" stroke="#58708F" stroke-width="2"/>
+<path d="M560 792 V820 M552 812 L560 820 L568 812" fill="none" stroke="#58708F" stroke-width="2"/>
+<rect x="40" y="280" width="332" height="128" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="40" y="300" width="4" height="88" rx="2" fill="#68DEC7"/>
+<text x="62" y="314" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Кино: замысел и план</text>
+<text x="332" y="314" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">6</text>
+<text x="62" y="347" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">История, референсы, шоты</text>
+<text x="62" y="373" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Стратегия и производство</text>
+<rect x="394" y="280" width="332" height="128" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="394" y="300" width="4" height="88" rx="2" fill="#68DEC7"/>
+<text x="416" y="314" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Игры и живые NPC</text>
+<text x="686" y="314" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">5</text>
+<text x="416" y="347" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Миры, логика, персонажи</text>
+<text x="416" y="373" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Длительная разработка</text>
+<rect x="748" y="280" width="332" height="128" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="748" y="300" width="4" height="88" rx="2" fill="#68DEC7"/>
+<text x="770" y="314" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">AI-инфлюенсеры</text>
+<text x="1040" y="314" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">5</text>
+<text x="770" y="347" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Личность, контент, видео</text>
+<text x="770" y="373" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Пайплайн и продукты</text>
+<rect x="40" y="464" width="332" height="132" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="40" y="484" width="4" height="92" rx="2" fill="#68DEC7"/>
+<text x="62" y="498" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Персонажи и 3D</text>
+<text x="332" y="498" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">8</text>
+<text x="62" y="531" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Исследование, ассеты, риг</text>
+<text x="62" y="557" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Анимация и Blender previs</text>
+<rect x="394" y="464" width="332" height="132" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="394" y="484" width="4" height="92" rx="2" fill="#68DEC7"/>
+<text x="416" y="498" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Звук и голоса</text>
+<text x="686" y="498" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">3</text>
+<text x="416" y="531" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">SFX, короткие композиции</text>
+<text x="416" y="557" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Речь и игровые события</text>
+<rect x="748" y="464" width="332" height="132" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="748" y="484" width="4" height="92" rx="2" fill="#68DEC7"/>
+<text x="770" y="498" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">UI, VFX и иконки</text>
+<text x="1040" y="498" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">3</text>
+<text x="770" y="531" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Интерфейсы и эффекты</text>
+<text x="770" y="557" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Анимированные иконки</text>
+<rect x="40" y="652" width="332" height="132" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="40" y="672" width="4" height="92" rx="2" fill="#68DEC7"/>
+<text x="62" y="686" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Обучение и AI-видео</text>
+<text x="332" y="686" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">3</text>
+<text x="62" y="719" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Krea LoRA и сравнения</text>
+<text x="62" y="745" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Seedance и референсы</text>
+<rect x="394" y="652" width="332" height="132" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="394" y="672" width="4" height="92" rx="2" fill="#68DEC7"/>
+<text x="416" y="686" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Монтаж и доводка</text>
+<text x="686" y="686" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">4</text>
+<text x="416" y="719" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Resolve, Fusion, Topaz</text>
+<text x="416" y="745" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">DLSS: отдельная проверка</text>
+<rect x="748" y="652" width="332" height="132" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="748" y="672" width="4" height="92" rx="2" fill="#68DEC7"/>
+<text x="770" y="686" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Проверка результата</text>
+<text x="1040" y="686" fill="#68DEC7" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">3</text>
+<text x="770" y="719" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Игровая и кинооценка</text>
+<text x="770" y="745" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Сравнение видеомоделей</text>
+<text x="42" y="861" fill="#F1C779" font-size="22" font-weight="600" font-family="Segoe UI,Arial,sans-serif">БЕЛЫЕ ПЯТНА / ПРИОРИТЕТ РАЗВИТИЯ</text>
+<rect x="40" y="889" width="332" height="138" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="40" y="909" width="4" height="98" rx="2" fill="#F1C779"/>
+<text x="62" y="923" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Общие evals</text>
+<text x="62" y="956" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Нет единого набора задач</text>
+<text x="62" y="982" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">и регрессий всех навыков</text>
+<text x="62" y="1008" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Приоритет: высокий</text>
+<rect x="394" y="889" width="332" height="138" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="394" y="909" width="4" height="98" rx="2" fill="#F1C779"/>
+<text x="416" y="923" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Переносимость</text>
+<text x="416" y="956" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Частично: локальные пути</text>
+<text x="416" y="982" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">и отдельные интеграции</text>
+<text x="416" y="1008" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Приоритет: высокий</text>
+<rect x="748" y="889" width="332" height="138" rx="14" fill="#152137" stroke="#30435F"/>
+<rect x="748" y="909" width="4" height="98" rx="2" fill="#F1C779"/>
+<text x="770" y="923" fill="#E8EDF7" font-size="21" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Сборка и выпуск</text>
+<text x="770" y="956" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Нет отдельного полного</text>
+<text x="770" y="982" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">CI / релиз / откат workflow</text>
+<text x="770" y="1008" fill="#B8C6DB" font-size="18" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Приоритет: высокий</text>
+<text x="42" y="1080" fill="#B8C6DB" font-size="20" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Следом: музыка и сведение · учёт ассетов · баланс и аналитика игр</text>
+<text x="42" y="1122" fill="#9BACCA" font-size="19" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Внешние плагины: дизайн, изображения, документы, браузер, сайты.</text>
+<text x="42" y="1154" fill="#9BACCA" font-size="19" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Они дополняют библиотеку и не входят в эти 44 навыка.</text>
+<text x="42" y="1198" fill="#9BACCA" font-size="17" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Покрытие означает наличие инструкций, а не доказанную производственную готовность.</text>
+</svg>

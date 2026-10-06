@@ -1,0 +1,4 @@
+interface:
+  display_name: "Influencer Content"
+  short_description: "Develop producible ideas and spoken scripts"
+  default_prompt: "Use $influencer-content to prepare ideas and scripts for the selected persona."

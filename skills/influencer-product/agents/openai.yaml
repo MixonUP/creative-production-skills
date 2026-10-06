@@ -1,0 +1,4 @@
+interface:
+  display_name: "Influencer Product"
+  short_description: "Build practical products for virtual personas"
+  default_prompt: "Use $influencer-product to create the requested workbook and inspect its final layout."

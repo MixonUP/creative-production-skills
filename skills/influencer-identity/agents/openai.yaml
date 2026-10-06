@@ -1,0 +1,4 @@
+interface:
+  display_name: "Influencer Identity"
+  short_description: "Build consistent character reference packs"
+  default_prompt: "Use $influencer-identity to prepare the character bible and reference plan."

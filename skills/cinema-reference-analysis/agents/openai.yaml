@@ -1,0 +1,4 @@
+interface:
+  display_name: "Разбор сильных фильмов"
+  short_description: "Референсы, свидетельства и перенос приёмов"
+  default_prompt: "Используй $cinema-reference-analysis. Разбери процесс создания референса и предложи локальный опыт."

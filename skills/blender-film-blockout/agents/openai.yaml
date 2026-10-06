@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Film Blockout"
+  short_description: "Редактируемые сцены, камеры и аниматики"
+  default_prompt: "Use $blender-film-blockout to build and visually check editable proxy geometry and cameras for this shot plan."

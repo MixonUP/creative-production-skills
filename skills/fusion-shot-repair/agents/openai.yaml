@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fusion Shot Repair"
+  short_description: "Трекинг, маски и проверяемый ремонт кадров"
+  default_prompt: "Используй $fusion-shot-repair для диагностики и исправления дефекта в кадре."

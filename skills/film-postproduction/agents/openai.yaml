@@ -1,0 +1,4 @@
+interface:
+  display_name: "Film Postproduction"
+  short_description: "Монтаж, Fusion, звук и проверка результата через MCP"
+  default_prompt: "Use $film-postproduction to assemble and finish the selected shots with consistent sound and verified exports."

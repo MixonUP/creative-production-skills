@@ -1,0 +1,4 @@
+interface:
+  display_name: "DLSS 5 — видео и Resolve"
+  short_description: "DLSS для Resolve и ComfyUI: настройка, проверка, ремонт"
+  default_prompt: "Используй $dlss5-video-finishing для настройки и проверки DLSS на нашем видео, сохраняя текущую версию Resolve."

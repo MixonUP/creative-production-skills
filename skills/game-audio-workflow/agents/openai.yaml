@@ -1,0 +1,4 @@
+interface:
+  display_name: "Игровой звук"
+  short_description: "Звуковые банки, события, повторения и микс"
+  default_prompt: "Используй $game-audio-workflow для текущей игровой задачи с проверяемым результатом."

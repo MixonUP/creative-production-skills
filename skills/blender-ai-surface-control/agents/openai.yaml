@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender AI Surface Control"
+  short_description: "Камера, текстуры и управляемые AI-референсы"
+  default_prompt: "Используй $blender-ai-surface-control для подготовки управляемого шота из Blender."
