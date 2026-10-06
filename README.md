@@ -1,4 +1,6 @@
-<p align="center"><img src="docs/assets/cover.svg" alt="Creative Production Skills — 44 workflows for games, film, sound and AI" width="100%"></p>
+<p align="center"><img src="docs/assets/hero-background-v1.png" alt="Кинематографичный мир: процедурный ландшафт переходит в архитектуру, звуковую волну и киноплёнку" width="100%"></p>
+
+<h1 align="center">Creative Production Skills</h1>
 
 <p align="center"><strong>Рабочая библиотека навыков для творческого AI-производства</strong><br>Игры · кино · персонажи · звук · процедурная генерация · AI-видео</p>
 
@@ -15,7 +17,7 @@
 **44 навыка в 10 направлениях.** Это снимок пользовательской библиотеки на
 7 октября 2026 года. Системные навыки, плагины и резервные копии сюда не входят.
 
-<p align="center"><img src="docs/assets/skill-map.svg" alt="Карта десяти направлений и приоритетных пробелов: evals, переносимость, выпуск" width="100%"></p>
+<p align="center"><a href="docs/SKILL_MAP_RU.md"><img src="docs/assets/skill-map.svg" alt="Карта десяти направлений и приоритетных пробелов: evals, переносимость, выпуск" width="100%"></a></p>
 
 ## С чего начать
 
